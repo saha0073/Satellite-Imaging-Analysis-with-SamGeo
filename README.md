@@ -19,7 +19,7 @@ This will install samgeo and all its dependencies. Make sure GDAL is installed v
 
 ## Overview
 
-The notebook in this repository follows the official [samgeo automatic mask generator example](https://samgeo.gishub.org/examples/automatic_mask_generator/). It shows how to:
+This notebook shows how to:
 
 - Download or use your own satellite image (GeoTIFF)
 - Visualize the image on an interactive map using [leafmap](https://leafmap.org/)
